@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/akshaysharma2003/akshaysharma2003/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
